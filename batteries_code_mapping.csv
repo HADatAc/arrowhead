@@ -1,0 +1,33 @@
+code,uri,label
+A,obo:UO_0000011,ampere
+Byte,obo:UO_0000233,byte
+C,obo:UO_0000027,degree Celsius
+cm,obo:UO_0000015,centimeter
+count,obo:UO_0000189,count unit
+Efs,obo:UO_0000267,electric field strength unit
+F,obo:UO_0000195,degree Fahrenheit
+h,obo:UO_0000032,hour
+Hz,obo:UO_0000106,hertz
+J,obo:UO_0000112,joule
+kg,obo:UO_0000009,kilogram
+kV,obo:UO_0000248,kilovolt
+kVh,obo:UO_0000230,kilovolt-hour
+mA,obo:UO_0000037,milliampere
+ms,obo:UO_0000028,millisecond
+mV,obo:UO_0000247,millivolt
+MV,obo:UO_0000252,megavolt
+nV,obo:UO_0000250,nanovolt
+pV,obo:UO_0000251,picovolt
+s,obo:UO_0000010,second
+uA,obo:UO_0000038,microampere
+us,obo:UO_0000029,microsecond
+uV,obo:UO_0000249,microvolt
+Vh,obo:UO_0000229,volt-hour
+Volt,obo:UO_0000218,volt
+watt,obo:UO_0000114,watt
+Wb,obo:UO_0000226,weber
+WB,uberon:0000178,Whole Blood
+Wh,obo:UO_0000223,watt-hour
+Timestamp,CTV3:XUYWA,Timestamp
+int,xsd:integer,integer
+R,NEMO_4603000,electrical_resistance
