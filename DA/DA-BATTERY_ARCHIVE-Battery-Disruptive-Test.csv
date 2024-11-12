@@ -1,0 +1,119 @@
+Cell ID,Anode,Cathode,Source,ah,Form Factor,SOC,Initial V,Indentor (mm),Indentor Speed (in/min)
+ORNL_LFP_Graphite_10Ah_0SOC_a,Graphite,LFP,commercial,10.00,Pouch,0.00,3.02,6.00,0.05
+ORNL_LFP_Graphite_10Ah_0SOC_b,Graphite,LFP,commercial,10.00,Pouch,0.00,3.06,6.00,0.05
+ORNL_LFP_Graphite_10Ah_100SOC_a,Graphite,LFP,commercial,10.00,Pouch,100.00,3.34,6.00,0.05
+ORNL_LFP_Graphite_10Ah_100SOC_b,Graphite,LFP,commercial,10.00,Pouch,100.00,3.34,6.00,0.05
+ORNL_LFP_Graphite_10Ah_100SOC_c,Graphite,LFP,commercial,10.00,Pouch,100.00,3.34,6.00,0.05
+ORNL_LFP_Graphite_10Ah_40SOC_a,Graphite,LFP,commercial,10.00,Pouch,40.00,3.29,6.00,0.05
+ORNL_LFP_Graphite_10Ah_40SOC_b,Graphite,LFP,commercial,10.00,Pouch,40.00,3.30,6.00,0.05
+ORNL_LFP_Graphite_10Ah_70SOC_a,Graphite,LFP,commercial,10.00,Pouch,70.00,3.30,6.00,0.05
+ORNL_LFP_Graphite_10Ah_70SOC_b,Graphite,LFP,commercial,10.00,Pouch,70.00,3.30,6.00,0.05
+ORNL_LFP_Graphite_10Ah_80SOC_a,Graphite,LFP,commercial,10.00,Pouch,80.00,3.33,6.00,0.05
+ORNL_LFP_Graphite_10Ah_80SOC_b,Graphite,LFP,commercial,10.00,Pouch,80.00,3.33,6.00,0.05
+ORNL_LFP_Graphite_10Ah_80SOC_d,Graphite,LFP,commercial,10.00,Pouch,80.00,3.33,6.00,0.05
+ORNL_LMO-LNO_Graphite_33Ah_20SOC_a,Graphite,LMO-LNO,commercial,33.00,Pouch,20.00,3.88,6.00,0.05
+ORNL_LMO-LNO_Graphite_33Ah_20SOC_b,Graphite,LMO-LNO,,33.00,Pouch,20.00,4.01,6.00,0.05
+ORNL_LMO-LNO_Graphite_33Ah_20SOC_c,Graphite,LMO-LNO,commercial,33.00,Pouch,20.00,3.75,6.00,0.05
+ORNL_LMO-LNO_Graphite_33Ah_40SOC_a,Graphite,LMO-LNO,commercial,33.00,Pouch,40.00,3.87,6.00,0.05
+ORNL_LMO-LNO_Graphite_33Ah_40SOC_b,Graphite,LMO-LNO,commercial,33.00,Pouch,40.00,4.01,6.00,0.05
+ORNL_LMO-LNO_Graphite_33Ah_60SOC_a,Graphite,LMO-LNO,commercial,33.00,Pouch,60.00,4.00,6.00,0.05
+ORNL_LMO-LNO_Graphite_33Ah_60SOC_b,Graphite,LMO-LNO,commercial,33.00,Pouch,60.00,4.08,6.00,0.05
+ORNL_LMO-LNO_Graphite_33Ah_60SOC_c,Graphite,LMO-LNO,commercial,33.00,Pouch,60.00,4.08,6.00,0.05
+ORNL_LMO-LNO_Graphite_33Ah_60SOC_d,Graphite,LMO-LNO,commercial,33.00,Pouch,60.00,4.08,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_0SOC,Graphite,NMC-LMO,commercial,26.00,Pouch,0.00,3.07,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_0SOC,Graphite,NMC-LMO,Chevy Volt,26.00,Pouch,0.00,3.07,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_0SOC,Graphite,NMC-LMO,Chevy Volt,26.00,Pouch,0.00,3.07,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_0SOC,Graphite,NMC-LMO,commercial,26.00,Pouch,0.00,3.07,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_100SOC_a,Graphite,NMC-LMO,commercial,26.00,Pouch,100.00,4.17,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_100SOC_b,Graphite,NMC-LMO,commercial,26.00,Pouch,100.00,4.16,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_100SOC_c,Graphite,NMC-LMO,commercial,26.00,Pouch,100.00,4.12,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_100SOC_d,Graphite,NMC-LMO,commercial,26.00,Pouch,100.00,4.13,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_20SOC_a,Graphite,NMC-LMO,commercial,26.00,Pouch,20.00,3.59,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_20SOC_b,Graphite,NMC-LMO,commercial,26.00,Pouch,20.00,3.58,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_20SOC_c,Graphite,NMC-LMO,commercial,26.00,Pouch,20.00,3.59,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_20SOC_d,Graphite,NMC-LMO,commercial,26.00,Pouch,20.00,3.59,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_40SOC_a,Graphite,NMC-LMO,commercial,26.00,Pouch,40.00,3.72,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_40SOC_b,Graphite,NMC-LMO,commercial,26.00,Pouch,40.00,3.71,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_40SOC_c,Graphite,NMC-LMO,commercial,26.00,Pouch,40.00,3.71,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_40SOC_d,Graphite,NMC-LMO,commercial,26.00,Pouch,40.00,3.92,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_60SOC_a,Graphite,NMC-LMO,commercial,26.00,Pouch,60.00,3.84,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_60SOC_b,Graphite,NMC-LMO,commercial,26.00,Pouch,60.00,3.86,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_60SOC_c,Graphite,NMC-LMO,commercial,26.00,Pouch,60.00,3.86,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_60SOC_d,Graphite,NMC-LMO,commercial,26.00,Pouch,60.00,3.87,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_80SOC_a,Graphite,NMC-LMO,commercial,26.00,Pouch,80.00,4.01,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_80SOC_b,Graphite,NMC-LMO,commercial,26.00,Pouch,80.00,4.01,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_80SOC_c,Graphite,NMC-LMO,commercial,26.00,Pouch,80.00,4.01,6.00,0.05
+ORNL_NMC-LMO_Graphite_26Ah_80SOC_d,Graphite,NMC-LMO,commercial,26.00,Pouch,80.00,4.01,6.00,0.05
+ORNL_NMC_Graphite_10Ah_0SOC_a,Graphite,NMC,commercial,10.00,Pouch,0.00,3.36,6.00,0.05
+ORNL_NMC_Graphite_10Ah_0SOC_b,Graphite,NMC,commercial,10.00,Pouch,0.00,3.33,6.00,0.05
+ORNL_NMC_Graphite_10Ah_100SOC_a,Graphite,NMC,commercial,10.00,Pouch,100.00,4.18,6.00,0.05
+ORNL_NMC_Graphite_10Ah_100SOC_b,Graphite,NMC,commercial,10.00,Pouch,100.00,4.17,6.00,0.05
+ORNL_NMC_Graphite_10Ah_40SOC_a,Graphite,NMC,commercial,10.00,Pouch,40.00,3.64,6.00,0.05
+ORNL_NMC_Graphite_10Ah_40SOC_b,Graphite,NMC,commercial,10.00,Pouch,40.00,3.64,6.00,0.05
+ORNL_NMC_Graphite_10Ah_70SOC_a,Graphite,NMC,commercial,10.00,Pouch,70.00,3.85,6.00,0.05
+ORNL_NMC_Graphite_10Ah_70SOC_b,Graphite,NMC,commercial,10.00,Pouch,70.00,3.85,6.00,0.05
+ORNL_NMC_Graphite_10Ah_80SOC_a,Graphite,NMC,commercial,10.00,Pouch,80.00,3.96,6.00,0.05
+ORNL_NMC_Graphite_10Ah_80SOC_b,Graphite,NMC,commercial,10.00,Pouch,80.00,3.94,6.00,0.05
+SNL_LCO_Graphite_6.4Ah_0SOC_a,graphite,LCO,Battery Space,6.40,pouch,0.00,3.21,6.00,0.05
+SNL_LCO_Graphite_6.4Ah_0SOC_b,graphite,LCO,Battery Space,6.40,pouch,0.00,3.16,6.00,0.05
+SNL_LCO_Graphite_6.4Ah_100SOC_a,graphite,LCO,Battery Space,6.40,pouch,100.00,4.12,6.00,0.05
+SNL_LCO_Graphite_6.4Ah_100SOC_b,graphite,LCO,Battery Space,6.40,pouch,100.00,4.12,6.00,0.05
+SNL_LCO_Graphite_6.4Ah_50SOC_a,graphite,LCO,Battery Space,6.40,pouch,50.00,3.81,6.00,0.05
+SNL_LCO_Graphite_6.4Ah_50SOC_b,graphite,LCO,Battery Space,6.40,pouch,50.00,3.81,6.00,0.05
+SNL_LCO_Graphite_6.4Ah_70SOC_a,graphite,LCO,Battery Space,6.40,pouch,70.00,3.90,6.00,0.05
+SNL_LCO_Graphite_6.4Ah_70SOC_b,graphite,LCO,Battery Space,6.40,pouch,70.00,3.90,6.00,0.05
+SNL_LCO_Graphite_6.4Ah_90SOC_a,graphite,LCO,Battery Space,6.40,pouch,90.00,4.02,6.00,0.05
+SNL_LCO_Graphite_6.4Ah_90SOC_b,graphite,LCO,Battery Space,6.40,pouch,90.00,4.05,6.00,0.05
+SNL_LFP_Graphite_10Ah_0SOC_b,graphite,LFP,Battery Space,10.00,pouch,0.00,2.81,6.00,0.05
+SNL_LFP_Graphite_10Ah_0SOC_b,graphite,LFP,Battery Space,10.00,pouch,0.00,2.81,6.00,0.05
+SNL_LFP_Graphite_10Ah_0SOC_b,graphite,LFP,Battery Space,10.00,pouch,0.00,2.81,6.00,0.05
+SNL_LFP_Graphite_10Ah_0SOC_b,graphite,LFP,Battery Space,10.00,pouch,0.00,2.81,6.00,0.05
+SNL_LFP_Graphite_10Ah_100SOC_a,graphite,LFP,Battery Space,10.00,pouch,100.00,3.40,6.00,0.05
+SNL_LFP_Graphite_10Ah_100SOC_a,graphite,LFP,Battery Space,10.00,pouch,100.00,3.40,6.00,0.05
+SNL_LFP_Graphite_10Ah_100SOC_a,graphite,LFP,Battery Space,10.00,pouch,100.00,3.40,6.00,0.05
+SNL_LFP_Graphite_10Ah_100SOC_a,graphite,LFP,Battery Space,10.00,pouch,100.00,3.40,6.00,0.05
+SNL_LFP_Graphite_10Ah_100SOC_a,graphite,LFP,Battery Space,10.00,pouch,100.00,3.40,6.00,0.05
+SNL_LFP_Graphite_10Ah_100SOC_a,graphite,LFP,Battery Space,10.00,pouch,100.00,3.40,6.00,0.05
+SNL_LFP_Graphite_10Ah_100SOC_b,graphite,LFP,Battery Space,10.00,pouch,100.00,3.40,6.00,0.05
+SNL_LFP_Graphite_10Ah_100SOC_b,graphite,LFP,Battery Space,10.00,pouch,100.00,3.40,6.00,0.05
+SNL_LFP_Graphite_10Ah_50SOC_a,graphite,LFP,Battery Space,10.00,pouch,50.00,3.29,6.00,0.05
+SNL_LFP_Graphite_10Ah_50SOC_b,graphite,LFP,Battery Space,10.00,pouch,50.00,3.30,6.00,0.05
+SNL_LFP_Graphite_10Ah_70SOC_a,graphite,LFP,Battery Space,10.00,pouch,70.00,3.31,6.00,0.05
+SNL_LFP_Graphite_10Ah_70SOC_b,graphite,LFP,Battery Space,10.00,pouch,70.00,3.31,6.00,0.05
+SNL_LFP_Graphite_10Ah_90SOC_a,graphite,LFP,Battery Space,10.00,pouch,90.00,3.34,6.00,0.05
+SNL_LFP_Graphite_10Ah_90SOC_b,graphite,LFP,Battery Space,10.00,pouch,90.00,3.34,6.00,0.05
+SNL_LMO-LNO_Graphite_33Ah_100SOC_a,graphite,LMO-LNO,Nissan Leaf,33.00,pouch,100.00,4.15,6.00,0.05
+SNL_LMO-LNO_Graphite_33Ah_100SOC_b,graphite,LMO-LNO,Nissan Leaf,33.00,pouch,100.00,4.14,6.00,0.05
+SNL_LMO-LNO_Graphite_33Ah_30SOC_a,graphite,LMO-LNO,Nissan Leaf,33.00,pouch,30.00,3.88,6.00,0.05
+SNL_LMO-LNO_Graphite_33Ah_30SOC_b,,LMO-LNO,Nissan Leaf,33.00,pouch,30.00,3.87,6.00,0.05
+SNL_LMO-LNO_Graphite_33Ah_50SOC_a,graphite,LMO-LNO,Nissan Leaf,33.00,pouch,50.00,3.94,6.00,0.05
+SNL_LMO-LNO_Graphite_33Ah_50SOC_b,graphite,LMO-LNO,Nissan Leaf,33.00,pouch,50.00,3.95,6.00,0.05
+SNL_LMO-LNO_Graphite_33Ah_75SOC_a,graphite,LMO-LNO,Nissan Leaf,33.00,pouch,75.00,4.05,6.00,0.05
+SNL_LMO-LNO_Graphite_33Ah_75SOC_b,graphite,LMO-LNO,Nissan Leaf,33.00,pouch,75.00,4.05,6.00,0.05
+SNL_NMC-LMO_Graphite_26Ah_0SOC_a,graphite,NMC-LMO,Chevy Volt,26.00,pouch,0.00,3.36,6.00,0.05
+SNL_NMC-LMO_Graphite_26Ah_100SOC_a,graphite,NMC-LMO,Chevy Volt,26.00,pouch,100.00,4.14,6.00,0.05
+SNL_NMC-LMO_Graphite_26Ah_100SOC_b,graphite,NMC-LMO,Chevy Volt,26.00,pouch,100.00,4.13,6.00,0.05
+SNL_NMC-LMO_Graphite_26Ah_30SOC_a,graphite,NMC-LMO,Chevy Volt,26.00,pouch,30.00,3.66,6.00,0.05
+SNL_NMC-LMO_Graphite_26Ah_30SOC_b,graphite,NMC-LMO,Chevy Volt,26.00,pouch,30.00,3.66,6.00,0.05
+SNL_NMC-LMO_Graphite_26Ah_50SOC_a,graphite,NMC-LMO,Chevy Volt,26.00,pouch,50.00,3.79,6.00,0.05
+SNL_NMC-LMO_Graphite_26Ah_50SOC_b,graphite,NMC-LMO,Chevy Volt,26.00,pouch,50.00,3.79,6.00,0.05
+SNL_NMC-LMO_Graphite_26Ah_50SOC_c,graphite,NMC-LMO,Chevy Volt,26.00,pouch,50.00,3.79,6.00,0.05
+SNL_NMC-LMO_Graphite_26Ah_75SOC_a,graphite,NMC-LMO,Chevy Volt,26.00,pouch,75.00,3.97,6.00,0.05
+SNL_NMC-LMO_Graphite_26Ah_75SOC_b,graphite,NMC-LMO,Chevy Volt,26.00,pouch,75.00,3.96,6.00,0.05
+SNL_NMC-LMO_Graphite_26Ah_85SOC_a,graphite,NMC-LMO,Chevy Volt,26.00,pouch,85.00,4.04,6.00,0.05
+SNL_NMC-LMO_Graphite_26Ah_85SOC_b,graphite,NMC-LMO,Chevy Volt,26.00,pouch,85.00,4.04,6.00,0.05
+SNL_NMC-LMO_Graphite_26Ah_90SOC_a,graphite,NMC-LMO,Chevy Volt,26.00,pouch,90.00,4.06,6.00,0.05
+SNL_NMC-LMO_Graphite_26Ah_90SOC_b,graphite,NMC-LMO,Chevy Volt,26.00,pouch,90.00,4.06,6.00,0.05
+SNL_NMC-LMO_Graphite_26Ah_90SOC_c,graphite,NMC-LMO,Chevy Volt,26.00,pouch,90.00,4.06,6.00,0.05
+SNL_NMC_Graphite_10Ah_0SOC_a,graphite,NMC,Battery Space,10.00,pouch,0.00,3.38,6.00,0.05
+SNL_NMC_Graphite_10Ah_0SOC_b,graphite,NMC,Battery Space,10.00,pouch,0.00,3.31,6.00,0.05
+SNL_NMC_Graphite_10Ah_0SOC_c,graphite,NMC,Battery Space,10.00,pouch,0.00,3.26,6.00,0.05
+SNL_NMC_Graphite_10Ah_100SOC_a,graphite,NMC,Battery Space,10.00,pouch,100.00,4.17,6.00,0.05
+SNL_NMC_Graphite_10Ah_100SOC_b,graphite,NMC,Battery Space,10.00,pouch,100.00,4.18,6.00,0.05
+SNL_NMC_Graphite_10Ah_50SOC_a,graphite,NMC,Battery Space,10.00,pouch,50.00,3.82,6.00,0.05
+SNL_NMC_Graphite_10Ah_50SOC_b,graphite,NMC,Battery Space,10.00,pouch,50.00,3.82,6.00,0.05
+SNL_NMC_Graphite_10Ah_50SOC_c,graphite,NMC,Battery Space,10.00,pouch,50.00,3.82,6.00,0.05
+SNL_NMC_Graphite_10Ah_70SOC_a,graphite,NMC,Battery Space,10.00,pouch,70.00,3.93,6.00,0.05
+SNL_NMC_Graphite_10Ah_70SOC_b,graphite,NMC,Battery Space,10.00,pouch,70.00,3.93,6.00,0.05
+SNL_NMC_Graphite_10Ah_90SOC_a,graphite,NMC,Battery Space,10.00,pouch,90.00,4.09,6.00,0.05
+SNL_NMC_Graphite_10Ah_90SOC_b,graphite,NMC,Battery Space,10.00,pouch,90.00,4.09,6.00,0.05
